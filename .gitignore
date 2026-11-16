@@ -1,0 +1,12 @@
+bin/
+obj/
+publish/
+*.user
+*.userosscache
+*.suo
+.vs/
+.vscode/
+.idea/
+dan_cache.json
+*.bak_*
+collection_temp_*.db
